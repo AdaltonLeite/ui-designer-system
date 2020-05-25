@@ -1,0 +1,8 @@
+:root {
+  --black: #000;
+  --white: #fff; }
+
+body, html {
+  color: var(--text-color);
+  font-family: var(--font-family);
+  text-rendering: optimizeLegibility; }
